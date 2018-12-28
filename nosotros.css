@@ -1,0 +1,19 @@
+.container{
+  background-color: white;
+}
+
+.p{
+  margin: 0px;
+
+}
+
+.texto{
+  background-color: rgba(97, 208, 249, 0.71);
+}
+
+body {
+  font: 1rem/1.5 var(--font-family-sans-serif);
+}
+a {
+  color: black;
+}
